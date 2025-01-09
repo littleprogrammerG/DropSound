@@ -1,0 +1,6 @@
+name: dropSound
+version: '1.0'
+main: dev.littleprogrammer.dropSound.DropSound
+api-version: '1.21'
+authors: [ littleprogrammer ]
+website: www.littleprogrammer.dev
